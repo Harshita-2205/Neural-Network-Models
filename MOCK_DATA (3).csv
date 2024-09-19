@@ -1,0 +1,1001 @@
+Tenure,MonthlyCharges,ContractType,PaymentMethod,CustomerSupportCalls,Churn
+55,104.9,One year,Bank Transfer,1,No
+38,141.36,Two years,Bank Transfer,0,No
+54,61.46,Two years,Electronic Check,2,No
+19,80.8,One year,Credit Card,9,No
+2,87.83,Two years,Direct Debit,6,No
+12,149.73,Monthly,Direct Debit,0,No
+59,81.32,Monthly,Electronic Check,1,No
+33,52.8,One year,Bank Transfer,6,No
+29,21.61,Two years,Direct Debit,10,No
+55,135.5,Two years,Electronic Check,4,No
+13,111.52,One year,Bank Transfer,7,No
+48,99.02,One year,Electronic Check,0,No
+67,64.59,Two years,Electronic Check,7,Yes
+23,52.26,One year,Electronic Check,7,Yes
+22,77.37,Two years,Credit Card,0,No
+23,91.52,Two years,Credit Card,5,No
+39,65.83,Two years,Credit Card,7,No
+7,23.15,Monthly,Bank Transfer,1,No
+70,130.97,One year,Bank Transfer,8,Yes
+16,26.2,One year,Bank Transfer,8,No
+46,116.66,One year,Bank Transfer,1,Yes
+19,105.5,Monthly,Credit Card,7,No
+11,59.76,Two years,Electronic Check,7,No
+34,109.7,One year,Electronic Check,7,No
+60,141.92,One year,Bank Transfer,3,No
+65,79.57,One year,Bank Transfer,5,No
+29,100.54,One year,Credit Card,3,No
+60,76.12,Monthly,Direct Debit,3,No
+72,47.43,Monthly,Electronic Check,8,Yes
+60,68.04,Two years,Direct Debit,6,No
+29,47.45,One year,Direct Debit,3,No
+43,24.83,Monthly,Bank Transfer,0,No
+3,31.67,Two years,Electronic Check,4,No
+40,103.48,Two years,Bank Transfer,5,No
+22,66.39,Monthly,Electronic Check,3,Yes
+30,60.93,One year,Electronic Check,1,No
+61,109.38,One year,Electronic Check,6,Yes
+52,94.05,Two years,Direct Debit,1,No
+48,71.04,Monthly,Credit Card,3,Yes
+71,111.7,Two years,Bank Transfer,0,Yes
+14,111.06,Monthly,Bank Transfer,6,Yes
+40,136.06,Monthly,Electronic Check,10,No
+18,49.24,Two years,Direct Debit,8,Yes
+19,42.01,One year,Credit Card,5,No
+17,42.39,One year,Credit Card,2,No
+59,24.55,One year,Credit Card,2,No
+39,96.45,Two years,Credit Card,10,No
+1,32.64,Two years,Electronic Check,8,No
+41,107.27,Two years,Direct Debit,5,No
+11,146.69,Two years,Direct Debit,7,No
+52,131.76,Monthly,Bank Transfer,5,No
+15,104.68,Two years,Direct Debit,2,No
+1,56.67,Monthly,Credit Card,6,No
+17,144.18,Two years,Bank Transfer,9,No
+22,64.67,One year,Bank Transfer,6,Yes
+55,23.94,One year,Credit Card,2,No
+17,90.51,Monthly,Direct Debit,1,Yes
+33,39.19,One year,Credit Card,5,Yes
+69,92.05,Monthly,Bank Transfer,2,No
+53,88.97,Two years,Direct Debit,2,No
+30,133.82,One year,Credit Card,1,No
+35,68.31,One year,Electronic Check,9,No
+72,86.38,Monthly,Direct Debit,6,No
+60,95.23,Monthly,Electronic Check,4,No
+8,95.69,Two years,Electronic Check,2,No
+35,70.67,Two years,Electronic Check,8,No
+71,146.66,One year,Electronic Check,5,No
+18,68.83,One year,Credit Card,4,No
+44,115.72,One year,Credit Card,5,Yes
+48,87.47,One year,Electronic Check,8,Yes
+4,84.38,One year,Bank Transfer,1,No
+6,95.81,Monthly,Bank Transfer,6,Yes
+42,116.31,One year,Credit Card,0,No
+60,100.99,Monthly,Direct Debit,7,No
+1,70.12,One year,Electronic Check,8,No
+15,76.18,One year,Credit Card,3,Yes
+52,65.21,Monthly,Electronic Check,9,No
+11,49.85,One year,Direct Debit,7,No
+55,66.58,Two years,Electronic Check,5,No
+48,44.61,Two years,Direct Debit,8,No
+33,69.3,One year,Direct Debit,5,No
+64,48.51,Two years,Bank Transfer,5,Yes
+54,106.29,One year,Direct Debit,4,No
+50,110.88,One year,Electronic Check,0,Yes
+43,106.34,One year,Electronic Check,7,No
+69,134.76,One year,Electronic Check,9,No
+28,92.77,Monthly,Bank Transfer,5,No
+30,58.02,Two years,Credit Card,2,No
+19,76.35,Monthly,Bank Transfer,10,No
+11,97.73,One year,Direct Debit,7,Yes
+9,33.62,Two years,Direct Debit,3,Yes
+25,43.7,Monthly,Credit Card,2,Yes
+7,59.1,One year,Direct Debit,8,Yes
+58,128.31,Monthly,Bank Transfer,4,No
+41,67.1,Monthly,Direct Debit,0,No
+42,25.79,Two years,Credit Card,8,Yes
+72,118.33,Monthly,Credit Card,1,No
+33,141.21,Monthly,Direct Debit,1,No
+31,124.55,Monthly,Bank Transfer,4,No
+1,110.57,One year,Bank Transfer,2,Yes
+64,28.29,One year,Bank Transfer,1,No
+70,107.67,Monthly,Electronic Check,2,Yes
+40,138.25,Two years,Electronic Check,9,Yes
+41,38.75,One year,Credit Card,2,No
+63,70.73,One year,Direct Debit,8,No
+43,97.61,One year,Direct Debit,4,No
+21,64.02,One year,Electronic Check,9,Yes
+49,133.7,One year,Electronic Check,1,No
+15,69.18,Monthly,Credit Card,7,No
+48,81.54,Monthly,Credit Card,5,No
+31,31.2,Monthly,Credit Card,1,No
+57,104.09,Two years,Bank Transfer,10,No
+3,142.42,One year,Bank Transfer,0,No
+35,34.2,Two years,Credit Card,9,No
+48,137.67,Two years,Direct Debit,2,No
+9,49.81,One year,Credit Card,4,No
+57,93.22,Monthly,Bank Transfer,7,Yes
+40,132.82,Monthly,Bank Transfer,3,Yes
+30,101.68,Two years,Direct Debit,8,No
+42,119.29,One year,Direct Debit,8,Yes
+61,98.05,One year,Direct Debit,9,No
+22,115.22,Two years,Bank Transfer,7,No
+28,79.32,One year,Direct Debit,1,No
+68,73.74,One year,Bank Transfer,2,No
+39,44.92,Two years,Bank Transfer,0,Yes
+22,57.89,Monthly,Electronic Check,1,No
+29,111.5,One year,Direct Debit,0,No
+50,119.07,Two years,Bank Transfer,5,No
+34,102.63,Monthly,Credit Card,0,Yes
+32,131.9,Monthly,Bank Transfer,1,No
+18,96.17,One year,Credit Card,3,No
+5,70.95,Two years,Bank Transfer,4,No
+25,83.8,Two years,Bank Transfer,0,Yes
+68,70.33,Monthly,Credit Card,2,No
+71,35.94,Monthly,Credit Card,3,No
+52,100.55,Monthly,Direct Debit,2,Yes
+37,38.72,Two years,Electronic Check,9,No
+8,106.55,Two years,Electronic Check,1,No
+20,144.23,One year,Credit Card,4,No
+61,100.16,One year,Bank Transfer,0,No
+51,108.75,Monthly,Electronic Check,2,Yes
+38,90.4,One year,Direct Debit,6,No
+64,113.3,Two years,Direct Debit,3,No
+37,127.36,Monthly,Direct Debit,10,No
+8,70.3,Two years,Electronic Check,2,No
+1,93.5,Two years,Bank Transfer,2,Yes
+46,51.75,Two years,Bank Transfer,7,No
+39,128.11,One year,Bank Transfer,3,Yes
+48,107.17,One year,Credit Card,6,Yes
+10,46.99,Monthly,Direct Debit,10,No
+55,34.96,Two years,Bank Transfer,2,No
+45,36.14,One year,Credit Card,1,No
+62,22.05,Two years,Bank Transfer,9,No
+16,126.57,One year,Direct Debit,0,Yes
+21,23.2,Monthly,Electronic Check,8,Yes
+17,42.83,One year,Direct Debit,9,No
+49,134.33,Two years,Credit Card,5,Yes
+8,54.08,Monthly,Credit Card,7,No
+4,114.6,One year,Bank Transfer,1,No
+22,45.28,Two years,Credit Card,3,No
+54,95.53,One year,Credit Card,1,Yes
+12,86.49,One year,Direct Debit,5,Yes
+66,141.14,One year,Credit Card,3,No
+17,149.07,One year,Electronic Check,8,No
+44,132.02,One year,Electronic Check,10,Yes
+70,84.11,Two years,Credit Card,6,No
+2,37.39,One year,Credit Card,7,No
+21,21.76,Two years,Direct Debit,8,Yes
+64,90.25,Monthly,Bank Transfer,9,No
+72,117.93,Two years,Direct Debit,3,Yes
+25,125.54,Monthly,Direct Debit,10,No
+42,147.25,One year,Bank Transfer,10,No
+60,45.63,Two years,Electronic Check,6,No
+14,31.25,Monthly,Credit Card,8,No
+12,125.89,Two years,Electronic Check,3,Yes
+67,148.83,Two years,Credit Card,6,No
+27,85.1,One year,Electronic Check,7,No
+2,149.26,One year,Credit Card,10,Yes
+58,55.18,One year,Credit Card,2,No
+31,23.33,One year,Credit Card,3,No
+25,118.22,Monthly,Bank Transfer,1,No
+6,32.61,Monthly,Electronic Check,1,Yes
+28,111.36,Monthly,Direct Debit,5,No
+24,140.37,One year,Electronic Check,5,No
+8,139.64,One year,Electronic Check,10,No
+59,73.95,Two years,Direct Debit,7,No
+36,80.6,Two years,Electronic Check,4,No
+25,54.62,Two years,Direct Debit,2,No
+6,129.41,Monthly,Credit Card,2,Yes
+22,97.03,Monthly,Credit Card,9,No
+42,64.34,One year,Credit Card,6,No
+55,32.61,Two years,Bank Transfer,10,No
+9,35.07,Two years,Electronic Check,5,No
+66,108.01,One year,Direct Debit,4,No
+20,41.62,Two years,Bank Transfer,5,No
+5,143.6,Two years,Direct Debit,6,No
+21,44.66,One year,Direct Debit,10,No
+70,44.91,One year,Direct Debit,0,No
+38,42.57,Two years,Direct Debit,8,No
+72,81.76,Two years,Direct Debit,9,Yes
+46,73.75,One year,Bank Transfer,1,Yes
+68,136.18,One year,Bank Transfer,0,No
+44,84.43,Two years,Direct Debit,0,No
+50,134.25,Monthly,Electronic Check,9,No
+65,120.05,One year,Electronic Check,2,No
+44,139.46,Monthly,Electronic Check,2,No
+29,56.38,Two years,Direct Debit,6,No
+54,128.16,Monthly,Direct Debit,2,No
+14,35.75,Two years,Bank Transfer,2,No
+61,133.53,Two years,Direct Debit,8,No
+27,103.27,Two years,Credit Card,2,Yes
+11,73.46,Monthly,Electronic Check,3,No
+5,114.66,One year,Bank Transfer,5,No
+62,135.49,Monthly,Direct Debit,2,Yes
+35,115.23,Monthly,Credit Card,6,No
+62,60.01,Two years,Direct Debit,10,No
+16,118.28,One year,Electronic Check,0,No
+3,116.18,One year,Bank Transfer,10,No
+35,120.63,Two years,Bank Transfer,7,No
+58,22.35,Two years,Credit Card,9,No
+33,57.05,Two years,Direct Debit,3,No
+22,61.18,One year,Direct Debit,2,No
+44,46.2,One year,Electronic Check,8,Yes
+42,134.49,Monthly,Direct Debit,10,No
+60,138.66,One year,Credit Card,5,Yes
+8,111.22,Monthly,Bank Transfer,7,No
+71,80.83,Two years,Electronic Check,10,No
+58,50.54,Monthly,Direct Debit,3,No
+17,24.07,Two years,Electronic Check,9,Yes
+50,22.88,Two years,Credit Card,2,No
+9,74.5,One year,Electronic Check,4,Yes
+44,86.55,Monthly,Electronic Check,1,No
+13,147.96,One year,Credit Card,8,No
+72,25.71,Monthly,Electronic Check,0,No
+72,127.89,Two years,Electronic Check,2,No
+46,65.69,Monthly,Direct Debit,2,Yes
+52,65.62,Two years,Credit Card,10,No
+51,71.11,Monthly,Electronic Check,10,Yes
+47,78.67,Two years,Credit Card,2,No
+47,109.12,One year,Electronic Check,5,Yes
+67,82.7,Two years,Bank Transfer,2,No
+33,62.68,Monthly,Electronic Check,5,No
+41,61.69,One year,Bank Transfer,2,Yes
+31,53.52,One year,Direct Debit,7,Yes
+49,28.75,One year,Bank Transfer,1,No
+69,123.96,Two years,Bank Transfer,7,No
+59,59.03,One year,Electronic Check,8,No
+47,85.53,One year,Electronic Check,4,No
+68,94.85,Monthly,Credit Card,10,Yes
+46,34.44,Monthly,Bank Transfer,10,No
+20,52.73,Two years,Direct Debit,1,No
+40,45.48,Monthly,Credit Card,5,No
+62,32.92,Monthly,Bank Transfer,5,No
+56,58.02,Monthly,Direct Debit,0,No
+53,123.19,Monthly,Bank Transfer,0,No
+20,65.01,Monthly,Credit Card,8,No
+28,51.28,One year,Direct Debit,5,No
+18,139.47,Two years,Direct Debit,4,No
+70,25.42,Monthly,Credit Card,2,No
+47,142.23,Monthly,Electronic Check,4,No
+8,144.24,Monthly,Credit Card,7,No
+42,50.13,One year,Bank Transfer,2,No
+61,82.21,Monthly,Bank Transfer,3,No
+20,128.92,Monthly,Direct Debit,6,No
+24,92.38,One year,Electronic Check,8,Yes
+12,80.45,One year,Credit Card,0,No
+53,136.21,Two years,Credit Card,9,No
+39,54.47,Two years,Credit Card,8,No
+66,69.76,Monthly,Electronic Check,10,Yes
+10,148.33,Two years,Credit Card,10,Yes
+43,85.71,Two years,Bank Transfer,4,No
+21,54.52,Two years,Electronic Check,3,Yes
+59,79.42,One year,Direct Debit,0,Yes
+39,112.67,One year,Electronic Check,2,No
+34,108.84,One year,Direct Debit,8,Yes
+29,70.25,One year,Direct Debit,4,Yes
+20,55.53,One year,Bank Transfer,7,Yes
+53,100.95,One year,Direct Debit,6,No
+43,124.88,Two years,Direct Debit,0,Yes
+40,132.62,Monthly,Credit Card,2,No
+34,79.53,Monthly,Credit Card,4,No
+47,71.41,One year,Bank Transfer,2,No
+36,139.86,One year,Credit Card,4,No
+16,132.99,Monthly,Bank Transfer,2,No
+38,125.27,Two years,Credit Card,7,No
+24,133.25,One year,Credit Card,6,No
+46,99.5,One year,Credit Card,9,No
+59,94.44,Monthly,Credit Card,9,No
+72,132.29,Monthly,Credit Card,8,Yes
+23,148.37,Monthly,Electronic Check,4,No
+39,62.44,Monthly,Electronic Check,5,Yes
+39,71.69,Two years,Direct Debit,6,No
+62,87.91,Two years,Electronic Check,7,No
+58,53.14,Two years,Electronic Check,10,No
+65,46.12,One year,Bank Transfer,7,No
+40,65.6,Two years,Credit Card,7,No
+58,107.53,Two years,Direct Debit,4,No
+33,34.33,One year,Credit Card,9,No
+14,33.49,Two years,Direct Debit,5,No
+62,68.14,Monthly,Direct Debit,5,No
+31,89.79,Monthly,Electronic Check,8,Yes
+12,104.39,Two years,Direct Debit,6,No
+72,30.0,Two years,Electronic Check,6,No
+25,22.17,One year,Bank Transfer,8,No
+35,76.89,Two years,Electronic Check,5,No
+46,104.75,Two years,Direct Debit,3,No
+69,80.25,One year,Electronic Check,4,No
+30,61.63,Monthly,Bank Transfer,0,Yes
+29,36.61,One year,Direct Debit,10,Yes
+6,126.07,One year,Electronic Check,10,No
+65,120.66,Two years,Credit Card,2,No
+67,86.03,Monthly,Direct Debit,5,Yes
+43,27.17,One year,Direct Debit,6,Yes
+22,140.49,Two years,Direct Debit,3,No
+40,76.94,One year,Direct Debit,3,No
+62,115.22,Monthly,Bank Transfer,8,No
+20,64.6,One year,Direct Debit,0,No
+60,140.25,Two years,Direct Debit,1,Yes
+27,26.08,One year,Credit Card,5,No
+10,22.39,Monthly,Bank Transfer,1,No
+43,29.34,One year,Direct Debit,5,No
+37,41.85,One year,Electronic Check,6,Yes
+65,128.47,Monthly,Credit Card,4,No
+42,105.35,One year,Direct Debit,9,No
+57,33.25,Two years,Credit Card,1,No
+67,20.13,One year,Direct Debit,8,Yes
+69,85.23,One year,Electronic Check,8,No
+58,93.28,Two years,Electronic Check,7,No
+50,74.82,Monthly,Electronic Check,9,Yes
+60,35.71,Two years,Electronic Check,6,Yes
+51,125.96,Monthly,Electronic Check,8,No
+35,142.16,One year,Credit Card,1,No
+46,54.06,One year,Direct Debit,4,Yes
+47,116.0,Two years,Credit Card,0,No
+16,33.66,Monthly,Electronic Check,2,Yes
+23,77.13,Two years,Credit Card,3,No
+11,40.84,Monthly,Credit Card,1,No
+2,142.24,One year,Direct Debit,0,No
+71,60.53,One year,Bank Transfer,4,Yes
+10,106.57,One year,Direct Debit,1,No
+60,39.23,Monthly,Credit Card,8,No
+66,132.27,One year,Direct Debit,6,No
+37,62.43,One year,Credit Card,8,No
+44,38.87,One year,Electronic Check,7,No
+38,67.15,Monthly,Direct Debit,6,No
+10,147.43,Two years,Credit Card,3,Yes
+62,112.47,Monthly,Electronic Check,6,No
+68,138.35,Two years,Credit Card,10,No
+61,58.4,Two years,Bank Transfer,6,No
+9,21.46,Two years,Bank Transfer,6,No
+47,122.25,One year,Direct Debit,6,No
+60,54.82,One year,Bank Transfer,1,No
+23,102.6,One year,Credit Card,10,No
+18,92.59,Monthly,Credit Card,8,No
+50,91.27,Two years,Bank Transfer,7,No
+6,104.04,Monthly,Direct Debit,6,No
+11,68.79,One year,Bank Transfer,7,Yes
+23,52.05,Monthly,Bank Transfer,9,No
+6,52.04,Two years,Direct Debit,10,No
+22,24.72,One year,Bank Transfer,10,No
+32,79.15,One year,Direct Debit,9,No
+56,125.93,Monthly,Credit Card,0,No
+25,124.15,Two years,Direct Debit,3,No
+22,123.39,Monthly,Direct Debit,1,No
+71,91.47,One year,Bank Transfer,1,No
+31,22.98,Monthly,Direct Debit,2,No
+25,40.55,One year,Direct Debit,10,No
+55,106.74,Two years,Bank Transfer,1,No
+45,128.76,Monthly,Bank Transfer,7,No
+33,83.1,One year,Bank Transfer,3,No
+72,68.71,Two years,Direct Debit,10,Yes
+20,105.35,Two years,Credit Card,6,No
+67,38.13,One year,Credit Card,6,No
+33,114.44,One year,Bank Transfer,7,Yes
+50,119.55,Monthly,Bank Transfer,9,No
+17,21.45,One year,Electronic Check,4,No
+53,59.05,Monthly,Direct Debit,8,No
+1,93.24,Two years,Electronic Check,4,Yes
+54,85.59,Monthly,Credit Card,8,No
+49,124.38,One year,Credit Card,1,No
+31,112.53,One year,Electronic Check,4,No
+14,146.75,Monthly,Credit Card,4,No
+37,115.0,One year,Direct Debit,6,No
+1,72.01,One year,Bank Transfer,1,No
+24,84.85,Monthly,Bank Transfer,7,No
+15,43.59,One year,Credit Card,2,Yes
+55,43.02,One year,Direct Debit,9,Yes
+17,134.34,Monthly,Electronic Check,5,No
+9,131.3,Two years,Direct Debit,3,No
+68,123.84,One year,Electronic Check,7,Yes
+36,131.42,Monthly,Credit Card,8,No
+29,102.49,One year,Bank Transfer,2,No
+14,67.55,Monthly,Bank Transfer,9,No
+57,115.56,One year,Direct Debit,9,No
+61,56.57,Two years,Direct Debit,7,Yes
+52,80.56,One year,Credit Card,9,No
+57,32.43,Two years,Credit Card,8,Yes
+3,133.69,Two years,Electronic Check,0,No
+49,81.31,One year,Bank Transfer,9,No
+6,64.09,Two years,Direct Debit,8,No
+1,75.81,Monthly,Electronic Check,4,No
+59,72.43,One year,Direct Debit,0,No
+43,46.56,Monthly,Bank Transfer,10,Yes
+40,33.19,One year,Bank Transfer,2,Yes
+71,111.54,Two years,Electronic Check,6,Yes
+22,47.98,Two years,Direct Debit,0,No
+60,20.18,Monthly,Electronic Check,9,No
+19,127.29,One year,Electronic Check,7,No
+39,70.16,One year,Bank Transfer,2,No
+68,36.97,Two years,Bank Transfer,0,No
+65,129.01,Monthly,Direct Debit,6,No
+54,53.49,Monthly,Electronic Check,7,No
+34,46.27,Monthly,Credit Card,10,No
+4,24.48,One year,Electronic Check,1,No
+63,123.95,One year,Credit Card,6,No
+45,69.82,Monthly,Direct Debit,9,Yes
+50,76.56,Two years,Electronic Check,4,No
+55,78.37,Two years,Electronic Check,2,No
+10,33.37,Monthly,Credit Card,8,No
+58,60.9,Monthly,Bank Transfer,3,No
+16,48.98,Two years,Bank Transfer,9,No
+22,75.65,Two years,Credit Card,3,No
+20,111.2,One year,Electronic Check,3,No
+25,134.9,One year,Electronic Check,4,No
+38,113.16,Two years,Direct Debit,9,No
+59,22.31,Two years,Electronic Check,0,No
+64,53.61,Two years,Direct Debit,10,No
+38,115.08,Two years,Bank Transfer,1,No
+68,110.67,Two years,Credit Card,0,No
+1,29.58,Two years,Electronic Check,9,No
+69,56.2,Monthly,Bank Transfer,0,No
+10,20.93,One year,Bank Transfer,2,No
+28,45.88,One year,Electronic Check,7,No
+62,115.73,One year,Bank Transfer,0,No
+49,111.23,Two years,Bank Transfer,6,No
+21,68.02,Monthly,Direct Debit,7,Yes
+9,40.59,Monthly,Credit Card,6,No
+19,147.61,Monthly,Direct Debit,3,Yes
+43,140.41,One year,Bank Transfer,9,No
+46,106.33,Monthly,Credit Card,9,Yes
+29,81.26,Monthly,Credit Card,10,Yes
+66,105.16,Monthly,Credit Card,4,No
+55,71.59,Two years,Credit Card,5,Yes
+56,114.03,One year,Credit Card,10,No
+60,69.96,Monthly,Bank Transfer,8,No
+16,74.54,One year,Direct Debit,6,No
+8,112.75,Monthly,Credit Card,1,No
+25,95.13,One year,Credit Card,9,No
+15,139.26,Monthly,Bank Transfer,0,No
+71,126.66,Monthly,Bank Transfer,6,Yes
+55,136.35,Monthly,Credit Card,0,No
+31,80.35,Two years,Bank Transfer,7,Yes
+28,39.26,Two years,Direct Debit,0,Yes
+46,32.34,Two years,Bank Transfer,4,Yes
+72,25.0,Two years,Direct Debit,8,No
+57,133.1,One year,Credit Card,0,Yes
+37,102.45,One year,Direct Debit,9,Yes
+59,29.48,Two years,Direct Debit,1,Yes
+39,145.69,Monthly,Bank Transfer,6,No
+7,43.33,Two years,Bank Transfer,5,Yes
+44,31.13,Two years,Electronic Check,7,Yes
+8,43.4,One year,Electronic Check,4,No
+21,21.9,Two years,Bank Transfer,6,No
+31,116.27,One year,Bank Transfer,5,No
+20,76.18,Two years,Credit Card,9,No
+43,148.49,Monthly,Direct Debit,7,No
+12,138.68,Two years,Direct Debit,4,Yes
+22,112.99,Monthly,Bank Transfer,0,Yes
+1,52.66,Monthly,Electronic Check,3,No
+18,27.43,One year,Direct Debit,3,No
+21,111.97,Monthly,Electronic Check,0,No
+43,63.68,Two years,Electronic Check,9,Yes
+58,78.54,Two years,Direct Debit,8,No
+1,135.06,Monthly,Direct Debit,3,No
+72,54.29,Two years,Direct Debit,0,Yes
+70,73.05,Two years,Direct Debit,4,No
+58,144.17,Monthly,Bank Transfer,10,No
+26,41.53,Monthly,Direct Debit,3,Yes
+55,120.03,One year,Bank Transfer,10,Yes
+52,124.63,Two years,Electronic Check,3,Yes
+60,148.46,One year,Credit Card,0,No
+48,117.59,Two years,Electronic Check,7,No
+67,38.98,Monthly,Electronic Check,9,No
+27,45.48,Two years,Credit Card,7,Yes
+36,88.02,Two years,Credit Card,2,No
+24,106.17,One year,Bank Transfer,9,No
+72,28.96,Two years,Direct Debit,9,Yes
+37,31.03,One year,Bank Transfer,10,Yes
+16,105.24,One year,Bank Transfer,8,No
+15,41.04,Two years,Electronic Check,0,No
+56,87.27,Two years,Electronic Check,1,No
+2,64.86,Two years,Bank Transfer,4,No
+25,56.39,Monthly,Direct Debit,1,No
+55,67.27,Two years,Credit Card,3,No
+1,73.7,One year,Electronic Check,0,No
+36,25.25,Two years,Credit Card,7,No
+32,44.26,Monthly,Electronic Check,3,Yes
+11,124.98,One year,Electronic Check,1,Yes
+23,31.2,One year,Credit Card,6,No
+56,76.66,Two years,Credit Card,10,No
+57,88.18,One year,Direct Debit,4,No
+11,29.52,One year,Credit Card,9,No
+4,77.68,One year,Electronic Check,2,No
+14,68.68,One year,Electronic Check,9,No
+72,55.65,One year,Credit Card,3,Yes
+5,27.62,One year,Direct Debit,5,No
+68,68.85,One year,Credit Card,0,No
+31,104.76,Monthly,Electronic Check,6,No
+56,108.99,Monthly,Credit Card,1,No
+43,112.96,Monthly,Electronic Check,4,No
+9,98.08,Monthly,Bank Transfer,5,No
+60,106.81,One year,Credit Card,1,Yes
+32,82.85,Monthly,Electronic Check,6,No
+58,97.41,Two years,Credit Card,3,No
+27,86.93,Monthly,Direct Debit,2,No
+69,121.13,Monthly,Direct Debit,5,No
+8,26.74,Monthly,Credit Card,1,Yes
+7,27.1,One year,Direct Debit,9,Yes
+20,75.01,Two years,Direct Debit,3,No
+19,41.45,Two years,Credit Card,0,Yes
+37,125.16,Monthly,Credit Card,8,No
+11,105.71,Two years,Electronic Check,2,No
+69,83.04,Monthly,Electronic Check,0,Yes
+71,36.29,Monthly,Direct Debit,7,No
+20,95.21,One year,Credit Card,5,No
+62,62.19,Monthly,Direct Debit,1,Yes
+54,68.94,Two years,Bank Transfer,3,No
+35,47.92,Monthly,Bank Transfer,2,No
+23,130.75,Two years,Electronic Check,6,No
+58,69.93,Two years,Direct Debit,4,No
+41,58.45,One year,Bank Transfer,0,Yes
+17,124.87,Two years,Credit Card,2,No
+63,125.01,Two years,Direct Debit,1,Yes
+39,20.4,Two years,Bank Transfer,5,Yes
+54,108.13,Monthly,Bank Transfer,2,No
+21,76.8,One year,Bank Transfer,9,No
+62,138.78,Monthly,Direct Debit,10,No
+3,119.73,Two years,Direct Debit,1,Yes
+15,134.23,Two years,Credit Card,9,No
+2,28.11,Two years,Electronic Check,7,No
+67,46.75,One year,Direct Debit,0,No
+66,84.38,Monthly,Electronic Check,1,Yes
+39,90.84,Monthly,Direct Debit,1,Yes
+47,86.24,One year,Bank Transfer,5,No
+9,24.49,Two years,Credit Card,10,No
+17,129.05,Two years,Bank Transfer,5,No
+16,109.14,Two years,Credit Card,0,No
+12,116.67,One year,Bank Transfer,1,No
+33,76.01,Monthly,Direct Debit,10,No
+28,77.04,Monthly,Bank Transfer,8,No
+22,93.57,Monthly,Credit Card,3,Yes
+59,130.48,One year,Direct Debit,4,No
+32,130.14,Two years,Bank Transfer,1,No
+71,42.9,One year,Direct Debit,10,No
+11,33.17,One year,Credit Card,5,No
+54,144.56,Two years,Bank Transfer,7,No
+55,103.27,Monthly,Credit Card,8,Yes
+25,44.57,Monthly,Bank Transfer,2,No
+29,121.05,Two years,Direct Debit,4,No
+57,102.48,Two years,Bank Transfer,2,No
+26,88.0,One year,Bank Transfer,9,Yes
+24,32.79,Two years,Direct Debit,8,No
+54,136.37,One year,Credit Card,10,No
+21,25.68,Two years,Credit Card,4,No
+11,97.8,One year,Electronic Check,7,No
+13,87.99,Two years,Bank Transfer,1,No
+51,29.26,One year,Bank Transfer,8,No
+24,32.71,Monthly,Direct Debit,5,Yes
+46,20.33,One year,Electronic Check,3,No
+54,107.72,Monthly,Bank Transfer,10,No
+59,79.01,One year,Bank Transfer,4,No
+43,86.19,Two years,Credit Card,5,No
+53,84.84,One year,Bank Transfer,7,No
+65,82.6,Monthly,Credit Card,2,No
+72,71.61,One year,Electronic Check,0,No
+4,46.1,Monthly,Direct Debit,6,Yes
+13,105.02,Monthly,Direct Debit,7,Yes
+47,81.09,One year,Credit Card,8,No
+40,103.88,Monthly,Bank Transfer,10,Yes
+52,79.91,Two years,Bank Transfer,9,Yes
+21,86.3,Two years,Bank Transfer,8,No
+67,132.15,Two years,Electronic Check,0,No
+38,75.47,Two years,Credit Card,5,No
+17,102.44,One year,Bank Transfer,9,No
+17,38.33,Two years,Bank Transfer,0,No
+65,142.68,Monthly,Electronic Check,2,No
+50,48.41,Monthly,Electronic Check,4,No
+22,64.81,Monthly,Electronic Check,4,No
+67,31.92,Monthly,Electronic Check,5,No
+23,81.76,One year,Electronic Check,2,Yes
+1,69.39,Monthly,Direct Debit,2,No
+64,134.23,Two years,Direct Debit,3,Yes
+12,148.29,Monthly,Electronic Check,5,Yes
+16,34.54,One year,Direct Debit,5,No
+24,137.85,Two years,Direct Debit,7,Yes
+18,102.69,One year,Credit Card,3,No
+4,121.28,Monthly,Direct Debit,9,No
+7,113.28,Monthly,Bank Transfer,9,No
+27,61.05,One year,Direct Debit,4,No
+32,91.44,Two years,Electronic Check,7,No
+32,110.31,One year,Electronic Check,1,No
+27,126.19,Monthly,Direct Debit,7,No
+24,63.63,Monthly,Electronic Check,7,Yes
+49,83.67,Two years,Direct Debit,4,No
+51,120.19,Monthly,Electronic Check,2,No
+19,91.56,One year,Electronic Check,3,Yes
+56,42.58,Monthly,Direct Debit,9,No
+70,143.57,One year,Direct Debit,7,No
+5,20.59,Monthly,Bank Transfer,6,Yes
+43,99.09,One year,Electronic Check,10,No
+68,97.55,One year,Bank Transfer,10,No
+66,68.05,Monthly,Electronic Check,2,No
+46,129.08,Two years,Credit Card,1,No
+24,101.48,One year,Bank Transfer,6,No
+32,82.9,Monthly,Electronic Check,4,Yes
+8,93.09,Monthly,Bank Transfer,7,No
+62,46.01,One year,Electronic Check,5,No
+4,135.95,Two years,Bank Transfer,2,Yes
+40,132.56,Monthly,Electronic Check,5,No
+40,105.52,One year,Electronic Check,7,No
+24,70.56,Monthly,Direct Debit,2,No
+33,30.29,Two years,Credit Card,9,No
+19,116.47,Monthly,Direct Debit,8,No
+30,106.26,One year,Electronic Check,2,Yes
+46,34.28,Monthly,Credit Card,7,Yes
+9,98.41,One year,Bank Transfer,2,No
+42,39.5,One year,Direct Debit,9,No
+28,60.42,Monthly,Credit Card,8,No
+68,69.13,One year,Direct Debit,7,No
+58,40.78,Monthly,Bank Transfer,0,No
+60,133.53,Two years,Credit Card,10,No
+10,141.29,One year,Credit Card,10,No
+2,143.68,Monthly,Direct Debit,5,No
+19,62.91,One year,Direct Debit,3,No
+23,26.49,Two years,Direct Debit,0,No
+9,57.49,Two years,Bank Transfer,9,No
+41,132.75,One year,Credit Card,2,No
+1,32.13,Two years,Electronic Check,5,No
+11,81.3,Two years,Direct Debit,10,Yes
+46,121.55,One year,Electronic Check,9,No
+27,123.15,Two years,Bank Transfer,4,No
+28,66.98,Two years,Bank Transfer,10,Yes
+62,27.44,Two years,Electronic Check,9,No
+8,25.19,Two years,Credit Card,1,Yes
+42,91.84,Two years,Electronic Check,1,No
+55,119.47,One year,Electronic Check,6,No
+66,127.29,Monthly,Credit Card,5,No
+51,140.0,One year,Credit Card,6,No
+40,91.97,Two years,Electronic Check,7,No
+3,149.54,Two years,Credit Card,1,Yes
+69,90.12,One year,Electronic Check,10,Yes
+51,65.47,One year,Direct Debit,5,No
+42,50.27,Monthly,Electronic Check,0,Yes
+7,101.19,Monthly,Bank Transfer,4,No
+55,128.95,One year,Bank Transfer,2,No
+36,94.29,One year,Direct Debit,1,No
+39,38.37,One year,Bank Transfer,9,No
+10,121.67,Monthly,Direct Debit,10,Yes
+40,36.49,Monthly,Bank Transfer,6,Yes
+2,65.81,One year,Direct Debit,2,No
+18,143.21,Two years,Direct Debit,7,No
+50,28.72,Two years,Direct Debit,5,No
+4,73.88,One year,Credit Card,9,Yes
+70,36.76,One year,Credit Card,0,Yes
+51,46.04,One year,Bank Transfer,5,No
+1,44.5,Monthly,Bank Transfer,6,No
+54,48.97,Two years,Direct Debit,3,Yes
+45,26.85,One year,Direct Debit,3,No
+61,36.88,Monthly,Credit Card,5,No
+15,88.73,Two years,Electronic Check,7,No
+17,142.4,One year,Electronic Check,5,Yes
+46,76.59,One year,Credit Card,9,No
+29,139.46,One year,Credit Card,1,No
+5,64.81,Monthly,Bank Transfer,10,No
+28,116.97,One year,Bank Transfer,10,No
+68,58.21,Monthly,Bank Transfer,4,No
+12,112.14,Two years,Credit Card,8,No
+1,88.48,One year,Bank Transfer,2,No
+14,108.13,Two years,Credit Card,8,No
+24,49.89,Monthly,Electronic Check,5,No
+36,28.07,Monthly,Direct Debit,5,No
+61,29.76,One year,Electronic Check,9,No
+7,65.46,One year,Direct Debit,6,No
+37,116.3,Two years,Electronic Check,9,No
+71,62.91,One year,Credit Card,5,Yes
+17,72.77,Monthly,Bank Transfer,8,No
+24,149.67,Two years,Credit Card,6,Yes
+31,56.75,One year,Bank Transfer,10,Yes
+38,24.09,Monthly,Electronic Check,1,No
+7,144.34,Two years,Electronic Check,8,Yes
+8,37.86,Monthly,Credit Card,8,No
+62,48.94,Monthly,Bank Transfer,0,No
+26,80.78,Monthly,Bank Transfer,8,No
+58,131.24,One year,Bank Transfer,5,Yes
+52,129.15,Monthly,Electronic Check,10,Yes
+28,70.26,One year,Electronic Check,9,No
+68,94.93,One year,Electronic Check,10,No
+30,137.97,Monthly,Direct Debit,3,No
+4,139.17,One year,Electronic Check,0,No
+15,46.45,One year,Credit Card,4,No
+66,121.33,One year,Credit Card,8,No
+50,21.41,Two years,Electronic Check,6,No
+55,74.92,Monthly,Electronic Check,9,No
+14,108.77,One year,Credit Card,9,No
+48,108.32,One year,Direct Debit,3,Yes
+18,119.29,One year,Bank Transfer,8,No
+31,121.79,Two years,Credit Card,2,No
+24,57.51,One year,Bank Transfer,6,No
+19,52.85,Two years,Direct Debit,6,No
+30,137.43,Monthly,Direct Debit,10,Yes
+4,114.38,Monthly,Direct Debit,10,No
+61,90.34,One year,Credit Card,5,No
+25,51.63,Two years,Electronic Check,10,No
+56,127.52,Two years,Direct Debit,1,Yes
+39,50.35,Monthly,Credit Card,8,No
+2,127.13,Monthly,Direct Debit,8,No
+64,125.44,Monthly,Bank Transfer,10,No
+34,39.5,Two years,Bank Transfer,3,Yes
+24,21.74,Two years,Credit Card,2,No
+26,144.84,One year,Bank Transfer,3,Yes
+59,44.48,Monthly,Credit Card,7,No
+39,70.73,Monthly,Credit Card,2,Yes
+54,23.64,Monthly,Bank Transfer,2,No
+20,32.29,Monthly,Direct Debit,2,Yes
+4,139.99,Monthly,Credit Card,1,Yes
+39,82.02,Two years,Direct Debit,4,No
+15,129.05,Monthly,Electronic Check,0,No
+39,144.77,Two years,Electronic Check,6,No
+67,45.95,Two years,Bank Transfer,5,No
+30,63.92,One year,Electronic Check,3,No
+49,60.4,One year,Electronic Check,5,No
+43,39.66,Two years,Bank Transfer,6,No
+51,110.29,One year,Electronic Check,9,No
+68,32.29,Monthly,Direct Debit,1,No
+51,85.48,Monthly,Electronic Check,2,No
+33,104.99,Monthly,Electronic Check,6,No
+43,21.31,One year,Electronic Check,8,No
+52,77.27,Two years,Credit Card,8,No
+23,73.93,Two years,Direct Debit,9,No
+33,34.24,Monthly,Credit Card,6,No
+57,80.24,One year,Direct Debit,0,No
+50,123.0,Two years,Electronic Check,4,Yes
+54,31.65,Monthly,Direct Debit,1,No
+37,48.87,Two years,Direct Debit,9,No
+6,130.17,Monthly,Electronic Check,0,No
+25,115.42,Monthly,Credit Card,9,No
+43,39.93,Monthly,Bank Transfer,7,No
+31,70.49,Two years,Credit Card,6,Yes
+68,37.36,Two years,Bank Transfer,9,Yes
+10,49.86,Monthly,Electronic Check,0,Yes
+70,102.79,Monthly,Electronic Check,3,No
+58,57.45,Monthly,Electronic Check,0,Yes
+69,49.82,One year,Electronic Check,0,No
+5,61.38,Two years,Direct Debit,3,No
+47,98.83,One year,Bank Transfer,4,No
+26,91.57,One year,Bank Transfer,7,No
+47,31.29,Two years,Direct Debit,10,No
+2,124.64,Monthly,Credit Card,7,Yes
+43,54.49,One year,Credit Card,5,No
+36,35.88,Monthly,Bank Transfer,5,No
+49,75.36,Two years,Electronic Check,0,No
+64,109.56,Monthly,Credit Card,4,No
+46,68.41,Monthly,Credit Card,4,No
+13,104.64,Monthly,Credit Card,3,No
+65,60.6,Monthly,Direct Debit,10,No
+31,148.03,Monthly,Credit Card,6,No
+38,85.1,Two years,Credit Card,6,No
+57,120.7,One year,Bank Transfer,1,No
+65,36.36,One year,Electronic Check,1,No
+6,79.14,Monthly,Electronic Check,5,No
+12,24.78,Two years,Direct Debit,7,No
+58,140.31,Monthly,Bank Transfer,3,No
+60,62.85,One year,Electronic Check,10,No
+46,129.2,Monthly,Bank Transfer,2,No
+57,123.61,Monthly,Direct Debit,10,No
+6,89.59,Monthly,Credit Card,5,No
+59,103.85,Monthly,Electronic Check,2,No
+26,85.83,Monthly,Credit Card,2,Yes
+41,39.65,Monthly,Direct Debit,10,No
+14,134.27,One year,Bank Transfer,7,No
+54,79.67,Two years,Direct Debit,0,No
+31,84.85,Monthly,Direct Debit,5,No
+20,99.22,Two years,Credit Card,5,No
+62,68.1,Monthly,Credit Card,10,No
+38,84.16,Two years,Bank Transfer,5,No
+69,46.16,Two years,Credit Card,10,Yes
+46,43.54,Two years,Electronic Check,6,No
+42,25.28,One year,Bank Transfer,5,No
+65,76.89,Monthly,Electronic Check,2,No
+72,75.53,One year,Direct Debit,6,No
+26,54.65,One year,Bank Transfer,2,Yes
+50,134.22,Two years,Direct Debit,0,No
+16,121.3,Monthly,Direct Debit,4,Yes
+61,52.08,Monthly,Direct Debit,3,No
+1,90.02,Two years,Direct Debit,5,No
+16,88.34,Two years,Credit Card,0,Yes
+70,83.34,Monthly,Electronic Check,0,No
+6,92.66,Monthly,Direct Debit,9,No
+60,112.72,One year,Bank Transfer,1,No
+59,52.54,Monthly,Direct Debit,8,No
+58,50.59,Two years,Electronic Check,2,No
+47,110.48,Monthly,Bank Transfer,6,No
+27,66.43,Two years,Bank Transfer,3,No
+31,42.76,Monthly,Direct Debit,2,Yes
+56,126.92,Two years,Credit Card,4,Yes
+6,73.38,One year,Direct Debit,4,No
+53,100.65,Two years,Direct Debit,10,No
+10,26.65,One year,Direct Debit,5,No
+58,34.58,Two years,Direct Debit,3,No
+36,73.74,One year,Credit Card,9,Yes
+52,47.49,One year,Bank Transfer,8,No
+56,94.23,One year,Electronic Check,9,No
+54,128.33,Two years,Direct Debit,10,Yes
+15,107.7,Monthly,Credit Card,5,Yes
+25,74.97,Two years,Electronic Check,10,No
+52,118.86,Two years,Direct Debit,5,No
+57,61.25,Two years,Direct Debit,4,No
+34,145.22,Monthly,Electronic Check,6,No
+71,116.82,One year,Credit Card,8,Yes
+25,111.95,Two years,Bank Transfer,5,No
+15,110.69,Monthly,Credit Card,2,Yes
+5,67.83,Monthly,Credit Card,10,No
+7,46.47,Two years,Electronic Check,3,No
+31,118.35,Two years,Direct Debit,9,No
+36,115.91,Two years,Bank Transfer,6,Yes
+59,101.61,Monthly,Bank Transfer,3,No
+65,103.05,Monthly,Direct Debit,6,No
+63,120.11,Two years,Credit Card,8,Yes
+40,41.34,Two years,Direct Debit,1,No
+5,64.4,Two years,Electronic Check,0,Yes
+46,135.17,Monthly,Electronic Check,6,No
+19,126.25,Two years,Credit Card,3,No
+2,124.99,Monthly,Credit Card,6,No
+41,71.06,Monthly,Electronic Check,5,No
+35,138.32,Two years,Bank Transfer,3,No
+41,70.82,Monthly,Direct Debit,10,Yes
+44,142.93,Monthly,Electronic Check,10,No
+9,59.18,One year,Bank Transfer,4,No
+61,54.09,Monthly,Direct Debit,6,Yes
+45,83.78,Two years,Direct Debit,1,No
+8,115.37,One year,Bank Transfer,6,No
+13,96.79,One year,Credit Card,6,No
+55,133.83,Two years,Electronic Check,10,No
+63,114.68,Monthly,Direct Debit,0,Yes
+46,106.66,Monthly,Credit Card,8,No
+40,120.2,Monthly,Credit Card,1,No
+72,139.44,Monthly,Direct Debit,6,No
+60,82.0,Two years,Credit Card,7,Yes
+47,121.9,Two years,Credit Card,3,Yes
+24,72.84,Monthly,Credit Card,1,Yes
+1,100.79,One year,Electronic Check,1,No
+56,135.82,Monthly,Direct Debit,6,No
+36,30.65,Two years,Direct Debit,6,No
+32,39.23,Monthly,Bank Transfer,5,No
+35,40.4,One year,Electronic Check,10,No
+63,59.61,Two years,Direct Debit,3,No
+67,39.13,Monthly,Direct Debit,10,No
+50,40.83,Two years,Electronic Check,6,No
+50,100.26,Monthly,Bank Transfer,9,Yes
+68,24.22,Two years,Direct Debit,7,No
+58,149.07,Two years,Bank Transfer,10,No
+25,67.98,Monthly,Credit Card,9,Yes
+31,78.15,One year,Direct Debit,1,Yes
+20,116.77,One year,Electronic Check,8,No
+68,75.01,One year,Direct Debit,7,No
+50,51.09,Two years,Credit Card,6,No
+19,84.15,Two years,Direct Debit,8,No
+1,47.65,One year,Credit Card,4,No
+44,146.69,Two years,Bank Transfer,10,No
+7,49.69,Two years,Bank Transfer,0,No
+22,134.88,Two years,Direct Debit,10,Yes
+21,53.41,Monthly,Direct Debit,1,No
+40,120.59,One year,Electronic Check,0,No
+72,116.09,Monthly,Credit Card,3,No
+25,25.2,One year,Direct Debit,2,No
+2,32.35,Two years,Electronic Check,9,No
+20,108.79,Monthly,Credit Card,8,Yes
+5,133.93,One year,Direct Debit,8,No
+17,92.61,Two years,Electronic Check,0,No
+26,85.45,Monthly,Electronic Check,0,No
+3,46.65,Two years,Electronic Check,8,Yes
+32,31.12,Two years,Credit Card,8,Yes
+47,81.28,One year,Direct Debit,1,Yes
+45,64.68,Two years,Bank Transfer,2,No
+45,56.99,Two years,Bank Transfer,5,No
+45,108.38,Monthly,Direct Debit,0,No
+39,38.07,Two years,Bank Transfer,4,Yes
+5,97.47,Monthly,Direct Debit,10,No
+28,66.82,Two years,Credit Card,1,Yes
+70,103.0,One year,Bank Transfer,3,No
+29,106.08,One year,Credit Card,3,No
+31,20.81,One year,Electronic Check,4,No
+56,110.76,One year,Credit Card,10,No
+54,48.9,Monthly,Electronic Check,4,No
+54,121.01,Monthly,Credit Card,9,Yes
+65,149.68,Monthly,Credit Card,1,No
+53,38.25,Monthly,Credit Card,10,Yes
+71,32.68,Monthly,Credit Card,9,No
+20,93.02,One year,Direct Debit,7,No
+13,45.03,One year,Credit Card,1,No
+38,123.14,Monthly,Direct Debit,8,Yes
+63,100.43,Monthly,Direct Debit,7,No
+50,117.32,Monthly,Direct Debit,5,No
+65,30.93,Monthly,Bank Transfer,5,No
+64,135.35,One year,Direct Debit,5,Yes
+15,116.54,One year,Direct Debit,4,No
+31,54.78,Two years,Credit Card,10,No
+60,111.18,Monthly,Credit Card,3,No
+6,144.03,Two years,Credit Card,0,Yes
+53,55.82,One year,Credit Card,8,No
+32,27.26,One year,Direct Debit,5,Yes
+48,47.24,One year,Electronic Check,8,No
+41,93.38,Two years,Credit Card,7,No
+16,47.11,Two years,Bank Transfer,4,No
+11,24.03,Monthly,Direct Debit,10,No
+33,142.4,Monthly,Electronic Check,0,No
+26,84.57,One year,Electronic Check,9,No
+3,99.36,Two years,Credit Card,0,No
+65,26.5,Monthly,Direct Debit,1,Yes
+40,51.58,Monthly,Direct Debit,4,No
+23,114.08,Monthly,Direct Debit,5,No
+55,58.25,Two years,Credit Card,1,No
+10,34.13,Monthly,Electronic Check,3,No
+67,120.54,Monthly,Bank Transfer,0,No
+39,65.37,Monthly,Electronic Check,10,No
+47,118.77,Monthly,Bank Transfer,10,No
+2,62.89,One year,Electronic Check,3,No
+31,126.62,One year,Electronic Check,7,Yes
+19,98.51,One year,Direct Debit,5,No
+3,146.85,Two years,Credit Card,2,Yes
+68,75.99,Two years,Bank Transfer,1,Yes
+25,72.87,Two years,Credit Card,0,No
+3,33.67,Two years,Credit Card,8,Yes
+24,113.54,Two years,Electronic Check,1,No
+11,22.98,Monthly,Direct Debit,7,No
+41,135.93,Two years,Direct Debit,10,No
+51,98.03,Two years,Electronic Check,9,Yes
+63,43.45,Two years,Bank Transfer,9,No
+54,111.34,Monthly,Credit Card,7,Yes
+68,74.37,Monthly,Credit Card,3,Yes
+61,142.81,One year,Electronic Check,6,No
+42,124.82,One year,Electronic Check,3,No
+23,32.75,One year,Credit Card,4,Yes
+59,126.71,Monthly,Credit Card,0,No
+4,141.67,Two years,Bank Transfer,2,No
+15,77.38,Monthly,Electronic Check,0,No
+21,139.56,One year,Electronic Check,5,No
+3,141.21,Monthly,Credit Card,9,Yes
+50,116.47,One year,Direct Debit,0,Yes
+10,119.92,Two years,Credit Card,8,No
+29,104.47,Two years,Electronic Check,1,No
+69,120.08,One year,Electronic Check,5,No
+21,68.64,Two years,Electronic Check,9,No
+13,76.44,Two years,Electronic Check,1,No
+48,109.35,Two years,Electronic Check,4,No
+38,34.69,Two years,Bank Transfer,10,No
+50,92.98,Two years,Direct Debit,3,Yes
+40,130.84,Two years,Credit Card,1,No
+37,24.08,One year,Direct Debit,8,Yes
+23,139.24,Monthly,Electronic Check,0,Yes
+1,132.18,Two years,Credit Card,3,No
+67,95.38,Two years,Bank Transfer,7,Yes
+64,69.68,One year,Credit Card,10,No
+62,40.57,Monthly,Credit Card,0,No
+35,123.15,Two years,Credit Card,10,No
+43,119.17,Two years,Bank Transfer,2,Yes
+33,125.47,Monthly,Electronic Check,8,No
+40,58.17,One year,Electronic Check,5,No
+72,28.86,Monthly,Direct Debit,3,No
+47,137.2,Monthly,Direct Debit,4,No
+70,48.01,One year,Electronic Check,7,No
+50,88.91,One year,Electronic Check,9,No
+51,107.3,One year,Electronic Check,4,Yes
+40,149.09,Two years,Bank Transfer,7,No
+72,103.47,Two years,Direct Debit,3,No
+22,93.94,One year,Direct Debit,6,Yes
+47,144.41,Monthly,Credit Card,10,No
+68,69.89,One year,Bank Transfer,2,Yes
+24,105.1,Monthly,Direct Debit,3,Yes
+37,67.48,Monthly,Bank Transfer,3,Yes
+29,37.42,One year,Electronic Check,10,No
+29,52.79,One year,Direct Debit,6,Yes
+20,29.98,One year,Electronic Check,0,No
+8,145.22,One year,Bank Transfer,0,Yes
+26,63.49,Monthly,Electronic Check,9,No
+9,145.39,Monthly,Direct Debit,5,No
+6,114.89,One year,Credit Card,5,Yes
+23,144.3,Monthly,Electronic Check,8,Yes
+27,71.97,Monthly,Electronic Check,4,No
+25,97.5,Two years,Bank Transfer,10,No
+3,68.78,Two years,Direct Debit,9,Yes
+38,141.09,Two years,Credit Card,2,No
+53,143.9,Monthly,Bank Transfer,0,No
+53,111.65,Two years,Credit Card,7,No
+19,40.11,Two years,Credit Card,5,No
+67,99.47,Two years,Direct Debit,7,No
+28,78.45,One year,Electronic Check,10,Yes
+33,112.7,Monthly,Credit Card,1,No
+24,60.35,Monthly,Electronic Check,0,No
+15,73.62,Monthly,Electronic Check,6,No
